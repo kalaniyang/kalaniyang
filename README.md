@@ -3,7 +3,6 @@
 ☕️ Barista by Day, Designer by Night
 💻 Learning HTML, CSS, and GitHub!
 
----
 ✫・。.⋆˚ੈ✩‧₊࿐࿔
 ---
 ### 🪼 Currently
@@ -14,7 +13,7 @@
 ---
 ✫・。.⋆˚ੈ✩‧₊࿐࿔
 ---
-### 💌 a few things about me!
+### 💌 A Few Things About Me!
 
 - 💿 I love clean design and soft color palettes
 - 🖇️ I care a lot about *why* we design things, not just how.
