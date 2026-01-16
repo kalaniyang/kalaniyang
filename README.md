@@ -26,6 +26,6 @@
 - 🖇️ Designing Posters
 - 🌊 Anything calm & creative
 
-![Favorite Studio Ghibli Character](ponyo.jpeg)
+![Favorite Studio Ghibli Character](Ponyo.jpeg)
 
 thank you for stopping by! 🎍
