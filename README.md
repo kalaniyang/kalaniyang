@@ -3,7 +3,7 @@
 ☕️ Barista by Day, Designer by Night
 💻 Learning HTML, CSS, and GitHub!
 
-✫・。.⋆˚ੈ✩‧₊࿐࿔
+[C]✫・。.⋆˚ੈ✩‧₊࿐࿔
 ---
 ### 🪼 Currently
 
