@@ -2,7 +2,6 @@
 📓 GIT student @ ASU
 ☕️ Barista by Day, Designer by Night
 💻 Learning HTML, CSS, and GitHub!
-
 ---
 ✫・。.⋆˚ੈ✩‧₊࿐࿔
 ---
@@ -20,4 +19,4 @@
 - 🖇️ I care a lot about *why* we design things, not just how.
 - 🪐 I'm learning to trust my creative voice!
 
-- ### thank you for stopping by! 🎍
+thank you for stopping by! 🎍
