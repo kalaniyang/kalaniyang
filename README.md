@@ -27,6 +27,11 @@
 - 🌊 Anything calm & creative
 - 🌱 Binge Watching Studio Ghibli Movies
 
+<p align="center">
+  <img src="Ponyo.jpeg" width="400">
+</p>
+
+*Ponyo - My Favorite Studio Ghibli Character! 🌊*
 ![Favorite Studio Ghibli Character](Ponyo.jpeg)
 
 Thank You for Stopping By! 🌸
