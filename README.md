@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi! I'm Kalani! 🌱
+📓 GIT student @ ASU
+☕️ Barista by Day, Designer by Night
+💻 Learning HTML, CSS, and GitHub!
 
-<!--
-**kalaniyang/kalaniyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+✫・。.⋆˚ੈ✩‧₊࿐࿔
+---
+### 🪼 Currently
 
-Here are some ideas to get you started:
+- 📚 Taking GIT 215 & Developing my Web Foundations
+- 🎋 Getting into Designing Fun Posters & Art
+- 🎨 Into Digital Media (any form of media) + Listening to Music (sienna: by the marias)
+---
+✫・。.⋆˚ੈ✩‧₊࿐࿔
+---
+### 💌 a few things about me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💿 I love clean design and soft color palettes
+- 🖇️ I care a lot about *why* we design things, not just how.
+- 🪐 I'm learning to trust my creative voice!
+
+- ### thank you for stopping by! 🎍
