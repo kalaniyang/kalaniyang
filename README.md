@@ -26,8 +26,9 @@
 - 🖇️ Designing Posters
 - 🌊 Anything calm & creative
 - 🌱 Binge Watching Studio Ghibli Movies
-
-*Ponyo - My Favorite Studio Ghibli Character! 🌊*
+<p align="center">
+  *My Favorite Studio Ghibli Character! Ponyo!🌊*
+</p>
 
 <p align="center">
   <img src="Ponyo.jpeg" width="400">
