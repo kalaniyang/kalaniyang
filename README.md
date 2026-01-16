@@ -1,11 +1,12 @@
 ## Hi! I'm Kalani! 🌱
-
+---
 ## 🔗 Links
 - https://github.com/kalaniyang
-
+---
 ## 🍵 About Me!
--📓 GIT student @ ASU
--☕️ Barista by Day, Designer by Night
+---
+- 📓 GIT student @ ASU
+- ☕️ Barista by Day, Designer by Night
 - 💻 Interested in design, media, and web development. I enjoy learning how creativity and technology intersect, especially through visual design and front-end work. I care a lot about *why* we design things, not just how.
 
 ---
