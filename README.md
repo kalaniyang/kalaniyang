@@ -25,7 +25,8 @@
 - 🏐 Volleyball + Golf 
 - 🖇️ Designing Posters
 - 🌊 Anything calm & creative
+- 🌱 Binge Watching Studio Ghibli Movies
 
 ![Favorite Studio Ghibli Character](Ponyo.jpeg)
 
-thank you for stopping by! 🎍
+Thank You for Stopping By! 🌸
