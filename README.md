@@ -27,7 +27,7 @@
 - 🌊 Anything calm & creative
 - 🌱 Binge Watching Studio Ghibli Movies
 <p align="center">
-  *My Favorite Studio Ghibli Character! Ponyo!🌊*
+  My Favorite Studio Ghibli Character! Ponyo!🌊
 </p>
 
 <p align="center">
